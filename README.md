@@ -1,7 +1,9 @@
 # Crime-Monitoring-and-Police-Assistance
 This project was build up in a hackathon at IIT(ISM) Dhanbad - HACKFEST'17
 
-The idea is that if a person is facing a threatening situation or is in danger of any sort, he/she will try to reach for help. Suppose the person is going through an area where he feels threat of any kind, then the first and immediate reaction of a person would be to shout for help. Moreover, in case the person is really in danger he wouldn't get enough time to call anyone or run as soon as he acknowledges the threat becasue the criminal could have planned everything in order and leaves no chance for the victim to reach out to his cellular device. The solution to this is to provide immediate police help at the spot from where the "shout for help" was called out.
+
+Main idea : 
+If a person is facing a threatening situation or is in danger of any sort, he/she will try to reach for help. Suppose the person is going through an area where he feels threat of any kind, then the first and immediate reaction of a person would be to shout for help. Moreover, in case the person is really in danger he wouldn't get enough time to call anyone or run as soon as he acknowledges the threat becasue the criminal could have planned everything in order and leaves no chance for the victim to reach out to his cellular device. The solution to this is to provide immediate police help at the spot from where the "shout for help" was called out.
 
 This shout for help can be easily detected with any electronic device that a person is carrying with himself. The obvious one is our mobile phone but sometimes when it is kept in the pocket, the audio recorder wont work properly. The perfect solution would be to implement the audio recorder in watch. Moreover, commonly available smart watches too have working audio recorders. 
 
