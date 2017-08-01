@@ -1,4 +1,4 @@
-# Crime-Monitoring-and-Police-Assistance
+# Crime Monitoring and Police Assistance
 This project was build up in a hackathon at IIT(ISM) Dhanbad - HACKFEST'17
 
 
@@ -9,6 +9,7 @@ This shout for help can be easily detected with any electronic device that a per
 
 Keeping this in mind, we have designed a system where the smart watch of the person which is connected to the android mobile of the person is constantly listening to "Help ME" or similar sound/voice command  with or above certain level of loudness and if it detects the latter, an application will immediately start running in the mobile and send the query in the form of current location (geographical coordinates, address) and contact number to a web server. The web server will pass this on to an application(desktop app) running on a system in nearest police station. The web server will have an algorithm embedded so that it can search for the police station that is nearest to the query point.
 As soon as the desktop application gets the query it would populate the latter using a marker on Google Maps. Other information such as contact information, name of the person, etc. would be received as well by the app. Then the required action could be taken.
+
 
 
 
