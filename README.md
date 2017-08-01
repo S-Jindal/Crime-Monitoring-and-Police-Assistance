@@ -14,13 +14,12 @@ As soon as the desktop application gets the query it would populate the latter u
 
 
 
-
 # Technologies used to build the system : 
 
 1. *Smart watch (any smart watch even the cheaper versions would work, it must've audio recorder and bluetooth)*
 
-2. _Android (for mobile phone application of the person)
+2. *Android (for mobile phone application of the person)*
 
-3. _JavaFX (desktop application)
+3. *JavaFX (desktop application)*
 
-4. _NodeJs, MongoDB (Web server and database)
+4. *NodeJs, MongoDB (Web server and database)*
